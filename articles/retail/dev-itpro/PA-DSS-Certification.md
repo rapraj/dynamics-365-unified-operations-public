@@ -3,7 +3,7 @@
 
 title: Payment Application Data Security Standards (PA-DSS) certification
 description: This topic explains the past, current, and pending listings of PA-DSS certification.
-author: jashanno
+author: rapraj
 manager: AnnBe
 ms.date: 02/06/2019
 ms.topic: article
@@ -22,7 +22,7 @@ ms.search.scope: Core, Operations, Retail
 # ms.custom: [used by loc for topics migrated from the wiki]
 ms.search.region: Global
 ms.search.industry: Retail
-ms.author: jashanno
+ms.author: rapraj
 ms.search.validFrom: 2016-01-01
 ms.dyn365.ops.version: Platform update 8
 
@@ -45,12 +45,12 @@ PA-DSS implementation guides that are available are linked to in the **Version**
 | ----------------------|-------- | ----------- |
 | Microsoft Dynamics AX | 2012 R3  | 6.3 |
 | Microsoft Dynamics AX | 7        | 7.0  |
+| Microsoft Dynamics 365 for Operations | [1611](https://mbs.microsoft.com/customersource/northamerica/365Enterprise/learning/documentation/installation-setup-guides/PADSSImplementationguide365Operations) | 7.1  |
 
 ## Current certification
 
 | Release  | Version | Build  |
 | ----------------------------|---------------------- | ----------- |
-| Microsoft Dynamics 365 for Operations | [1611](https://mbs.microsoft.com/customersource/northamerica/365Enterprise/learning/documentation/installation-setup-guides/PADSSImplementationguide365Operations) | 7.1  |
 | Microsoft Dynamics 365 for Finance and Operations, Enterprise edition | [July 2017*](https://mbs.microsoft.com/customersource/Global/365Enterprise/learning/documentation/installation-setup-guides/msd365retailpadssguide)  | 7.2 |
 | Microsoft Dynamics 365 for Retail | [July 2017](https://mbs.microsoft.com/customersource/Global/365Enterprise/learning/documentation/installation-setup-guides/msd365retailpadssguide) | 7.2  |
 
@@ -60,10 +60,8 @@ PA-DSS implementation guides that are available are linked to in the **Version**
 
 | Release  | Version | Build |
 | ---------------------------|----------------------- | ----------- |
-| Microsoft Dynamics 365 for Finance and Operations, Enterprise edition | [7.3](https://mbs.microsoft.com/customersource/Global/365Enterprise/learning/documentation/installation-setup-guides/msd365retailpadssguide73) | 7.3 |
-| Microsoft Dynamics 365 for Retail | [7.3](https://mbs.microsoft.com/customersource/Global/365Enterprise/learning/documentation/installation-setup-guides/msd365retailpadssguide73) | 7.3 |
-| Microsoft Dynamics 365 for Finance and Operations | [8.0](https://mbs.microsoft.com/customersource/northamerica/AX/learning/documentation/installation-setup-guides/msd365PADSSImplGuide8) | 8.0 |
-| Microsoft Dynamics 365 for Retail | [8.0](https://mbs.microsoft.com/customersource/northamerica/AX/learning/documentation/installation-setup-guides/msd365PADSSImplGuide8)  | 8.0 |
-| Microsoft Dynamics 365 for Finance and Operations, Enterprise edition | 8.1 | 8.1 |
-| Microsoft Dynamics 365 for Retail | 8.1  | 8.1 |
+| Microsoft Dynamics 365 for Finance and Operations, Enterprise edition | [10.0.6](https://mbs.microsoft.com/customersource/Global/365Enterprise/learning/documentation/installation-setup-guides/) | 10.0.6 |
+| Microsoft Dynamics 365 for Retail | [10.0.8](https://mbs.microsoft.com/customersource/Global/365Enterprise/learning/documentation/installation-setup-guides/) | 10.0.8 |
+
+
 
