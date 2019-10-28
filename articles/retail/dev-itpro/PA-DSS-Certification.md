@@ -53,6 +53,7 @@ PA-DSS implementation guides that are available are linked to in the **Version**
 | ----------------------------|---------------------- | ----------- |
 | Microsoft Dynamics 365 for Finance and Operations, Enterprise edition | [July 2017*](https://mbs.microsoft.com/customersource/Global/365Enterprise/learning/documentation/installation-setup-guides/msd365retailpadssguide)  | 7.2 |
 | Microsoft Dynamics 365 for Retail | [July 2017](https://mbs.microsoft.com/customersource/Global/365Enterprise/learning/documentation/installation-setup-guides/msd365retailpadssguide) | 7.2  |
+| Microsoft Dynamics 365 for Finance and Operations | [10.0](https://mbs.microsoft.com/customersource/Global/365Enterprise/learning/documentation/installation-setup-guides/) | 10.0 |
 
 \*  The PDF document in this link applies to both Dynamics 365 for Retail (as it states) *and* Dynamics 365 for Finance and Operations, Enterprise edition.
 
